@@ -4,6 +4,5 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://nvhbmt.github.io/portfolio',
-  base: 'portfolio',
+  site: 'https://cunpoi.id.vn',
 });
