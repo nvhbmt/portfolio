@@ -33,10 +33,12 @@
       "name": "FullStack Developer",
       "position": "Freelancer",
       "startDate": "2022-01-1",
+      "location_type": "remote",
       "achievements": [
         "Developed a Full Stack Website using React, Next.js, and Nest.js."
       ],
       "location": "Hồ Chí Minh City, Việt Nam",
+      "responsibilities": [],
       "highlights": [],
       "skills": [
         "TypeScript",
