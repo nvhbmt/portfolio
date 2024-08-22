@@ -5,7 +5,7 @@
     "image": "/me_avatar.jpg",
     "email": "hoangnguyen1157@gmail.com",
     "phone": "+84 964 815 302",
-    "url": "https://johndoe.dev",
+    "url": "https://cunpoi.id.vn/",
     "summary": "Full Stack Website Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
@@ -20,10 +20,35 @@
         "network": "GitHub",
         "username": "nvhbmt",
         "url": "https://github.com/nvhbmt"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nv-hoang",
+        "url": "https://www.linkedin.com/in/nv-hoang/"
       }
     ]
   },
   "work": [
+    {
+      "name": "FullStack Developer",
+      "position": "Freelancer",
+      "startDate": "2022-01-1",
+      "achievements": [
+        "Developed a Full Stack Website using React, Next.js, and Nest.js."
+      ],
+      "location": "Hồ Chí Minh City, Việt Nam",
+      "highlights": [],
+      "skills": [
+        "TypeScript",
+        "Next",
+        "Node",
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "Firebase",
+        "Docker"
+      ]
+    },
     {
       "name": "StudyGeo3D",
       "position": "Frontend Developer",
@@ -33,12 +58,9 @@
       "endDate": "2023-1-01",
       "summary": "Website for Supporting Spatial Geometry Learning.",
       "achievements": [
-        "Achieved fourth place in the 'Science and Engineering - Provincial Startup Competition for the 2022 - 2023 school year"
+        "Achieved fourth place in the 'Science and Engineering - Provincial Startup Competition for the 2022 - 2023 school year."
       ],
-      "highlights": [
-        "Completed several client projects successfully",
-        "Completed several client projects successfully"
-      ],
+      "highlights": [],
       "skills": [
         "HTML",
         "CSS",
